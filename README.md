@@ -1,2 +1,2 @@
 # WUTGitPractice
-A practice forgit
+A practice for git
